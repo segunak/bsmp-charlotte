@@ -1,26 +1,18 @@
 ---
 layout: page
+nav_exclude: false
+nav_order: 5
 title: Staff
-description: A listing of all the course staff members.
+description: A listing of all the program staff members.
 ---
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+Here are the staff members for the 2024 Blacks at Microsoft (BAM) Summer Mentorship Program in Charlotte, North Carolina. Feel free to **click on any staffers name to connect with them on LinkedIn!**
 
-## Instructors
+## Program Team
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
+{% assign staff = site.staffers %}
+{% for staffer in staff %}
 {{ staffer }}
 {% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}

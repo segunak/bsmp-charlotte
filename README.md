@@ -1,39 +1,34 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Home
+nav_exclude: false
+nav_order: 1
 permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
 ---
 
-# Just the Class
+# Home
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+![HelloThere](./assets/images/clippy.gif)
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Hello and welcome to the program site for the **2024 Blacks at Microsoft (BAM) Summer Mentorship Program in Charlotte, North Carolina**. This site serves as your one stop shop for key information and updates about the program. Be sure to bookmark this link! To start, here's some key details about the program.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Program Format
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+The BAM Summer Mentorship Program in Charlotte, North Carolina runs from **July 9th, 2024 to August 1st, 2024**. Each program day, regardless of location, runs from **10 AM - 3 PM** in the following format.
 
-## Getting Started
+* **Tuesday's:** In-person at the Microsoft Charlotte Office [8050 Microsoft Way Charlotte, NC 28273](https://maps.app.goo.gl/XTrV7nVqcTXL3GN98)
+* **Wednesday's:** Field trips to various local businesses and Charlotte institutions. Check the [Calendar](calendar.md) page to learn which field trips are happening when.
+* **Thursday's:** Virtual engagement, with the exception of `7/18/24` (make up field trip) and `8/1/24` (last day of the program at the office, final presentations). Check out the [Calendar](calendar.md) page for more details.
 
-Getting started with Just the Class is simple.
+## Important Pages
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Here are some important pages on to check out.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+* [Program Calendar](calendar.md)
+* [Program Schedule](schedule.md)
+* [Program Announcements](announcements.md)
+* [Program Staff](staff.md)
 
-### Local development environment
+## Contact Information
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+You can contact the program team at `bsmpncmoms@microsoft.com` with any questions or concerns.
