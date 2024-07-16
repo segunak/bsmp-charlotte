@@ -18,7 +18,7 @@ The BAM Summer Mentorship Program in Charlotte, North Carolina runs from **July 
 
 * **Tuesday's:** In-person at the Microsoft Charlotte Office [8050 Microsoft Way Charlotte, NC 28273](https://maps.app.goo.gl/XTrV7nVqcTXL3GN98)
 * **Wednesday's:** Field trips to various local businesses and Charlotte institutions. Check the [Calendar](calendar.md) page to learn which field trips are happening when.
-* **Thursday's:** Virtual engagement, with the exception of `7/18/24` (make up field trip) and `8/1/24` (last day of the program at the office, final presentations). Check out the [Calendar](calendar.md) page for more details.
+* **Thursday's:** Virtual engagement, with the exception of `7/18/24` (make up field trip) and `8/1/24` (last day of the program at the office and final presentations). Check out the [Calendar](calendar.md) page for more details.
 
 ## Important Pages
 
