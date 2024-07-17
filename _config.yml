@@ -21,10 +21,12 @@
 title: BSMP Charlotte
 tagline: Blacks at Microsoft Summer Mentorship Program
 description: A site for the Charlotte, North Carolina edition of the Blacks at Microsoft (BAM) Summer Mentorship Program.
-author: Kevin Lin
+author: Segun Akinyemi
 baseurl: '/bsmp-charlotte' # the subpath of your site, e.g. /blog
 url: 'https://segunak.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+favicon_ico: "/assets/images/favicon.ico"
+#logo: "/assets/images/BAMNCLogo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.2
@@ -52,16 +54,6 @@ defaults:
       height: 300
       subpath: '/assets/images/'
       width: 300
-  - scope:
-      path: ''
-      type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
   - scope:
       path: ''
       type: announcements
