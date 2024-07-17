@@ -5,6 +5,6 @@ website: https://www.linkedin.com/in/carlston/
 photo: carlston.jpg
 meta:
   Job Title: Technical Program Manager
-  Hometown: Charlotte, North Carolina
-  Fun Fact: Went to Louisiana State University.
+  Hometown: Augusta, Georgia
+  Fun Fact: Comes from a rather large family having 25 and counting first cousins. 
 ---
