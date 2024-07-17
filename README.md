@@ -24,9 +24,10 @@ The BAM Summer Mentorship Program in Charlotte, North Carolina runs from **July 
 
 Here are some important pages on to check out.
 
-* [Program Calendar](calendar.md)
 * [Program Announcements](announcements.md)
+* [Program Calendar](calendar.md)
 * [Program Homework](homework.md)
+* [Program Miscellaneous Info](miscellaneous.md)
 * [Program Staff](staff.md)
 
 ## Contact Information

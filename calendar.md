@@ -10,6 +10,8 @@ description: Listing of program content.
 
 As a reminder, each day of the program runs from **10 AM - 3 PM** regardless of location.
 
+---
+
 ## Week 2 (7/16-7/18)
 
 Tuesday 7/16
