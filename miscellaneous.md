@@ -8,7 +8,7 @@ description: A page for miscellaneous program information.
 
 # Miscellaneous
 
-This page is for miscellaneous program information that doesn't really fit into the other sections. Scroll through to see what you might find!
+This page is for miscellaneous program information. Scroll through to see what you might find!
 
 ---
 
