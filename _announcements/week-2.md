@@ -1,7 +1,7 @@
 ---
 title: Week 2 Announcement
 week: 2
-date: 2023-07-16
+date: 2024-07-16
 ---
 
 Hello students! We hope you enjoyed Week 1, we have some fun times ahead for the rest of Week 2. Here are key details about our engagements this week (7/16 - 7/17).

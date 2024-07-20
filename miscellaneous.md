@@ -12,7 +12,20 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 ---
 
-## Honeywell Field Trip LinkedIn Info
+## LinkedIn Info - GM Field Trip
+
+The GM field trip featured interactions with several incredible individuals who had a lot of knowledge to share. Click on names in the list below to open up their LinkedIn's and connect with them!
+
+* [TaiJaune Robinson](https://www.linkedin.com/in/taijaunerobinson/){:target="_blank"}
+* [Isra Jamil](https://www.linkedin.com/in/isra-jamil-26370b136/){:target="_blank"}
+* [Ryan Samo](https://www.linkedin.com/in/ryansamo/){:target="_blank"}
+* [Jonathan Bolenbaugh](https://www.linkedin.com/in/jonathan-bolenbaugh-50798a12/){:target="_blank"}
+* [Ravinn Wentworth](https://www.linkedin.com/in/ravinn-wentworth-40a885170/){:target="_blank"}
+* [Jesse Iwuji](https://www.linkedin.com/in/jesseiwuji/){:target="_blank"} (He also has a [Wikipedia page](https://en.wikipedia.org/wiki/Jesse_Iwuji){:target="_blank"}, legit famous!)
+
+---
+
+## LinkedIn Info - Honeywell Field Trip
 
 We met a lot of Honeywell employees at the Honeywell field trip. Here's the LinkedIn information for everyone we met!
 

@@ -48,17 +48,17 @@ Tuesday 7/23
 
 Wednesday 7/24
 : **Activity:**{: .label .label-blue } Field trip to Ally Financial.  
-  **Location:**{: .label .label-red } Uptown Charlotte. Exact address to be announced!  
+  **Location:**{: .label .label-red } [Ally Charlotte Center at 601 S Tryon St, Charlotte, NC 28202](https://g.co/kgs/b6Q2xSB){: target="_blank"}.  
   **What to Wear:**{: .label .label-green } Casual attire.  
   **What to Bring:**{: .label .label-purple } Nothing specific, but you're free to bring a backpack if you'd like.  
-  **What to Know:**{: .label .label-yellow } More details to come.
+  **What to Know:**{: .label .label-yellow } See the [Week 3 announcement](announcements.md) for more details.
 
 Thursday 7/25
 : **Activity:**{: .label .label-blue } Virtual engagement.  
   **Location:**{: .label .label-red } Virtual.  
   **What to Wear:**{: .label .label-green } Virtual day, so not applicable.  
   **What to Bring:**{: .label .label-purple } Virtual day, so not applicable.  
-  **What to Know:**{: .label .label-yellow } Use your Microsoft provided laptop to open Microsoft Teams, which is how we'll communicate throughout the virtual day.
+  **What to Know:**{: .label .label-yellow } This will be our first official virtual day of the program. At 10 AM, please log onto your Microsoft-provided laptops and open your Outlook email and Microsoft Teams. You will receive a link via email and chat to join a call where we will share information and provide instructions for the day's activities. The schedule remains the same, from 10 AM to 3 PM, but conducted virtually!
 
 ---
 
@@ -67,7 +67,7 @@ Thursday 7/25
 Tuesday 7/30
 : **Activity:**{: .label .label-blue } In-person engagement at the office.  
   **Location:**{: .label .label-red } Microsoft Charlotte Office - [8050 Microsoft Way, Charlotte, NC 28273](https://maps.app.goo.gl/pY9B8E3K2aurFx6L8){: target="_blank"}.  
-  **What to Wear:**{: .label .label-green } Casual attire.  
+  **What to Wear:**{: .label ..label-green } Casual attire.  
   **What to Bring:**{: .label .label-purple } Microsoft badge, laptop, and a backpack.  
   **What to Know:**{: .label .label-yellow } Nothing specific, come ready to learn!
 
@@ -83,4 +83,4 @@ Thursday 8/1
   **Location:**{: .label .label-red } Microsoft Charlotte Office - [8050 Microsoft Way, Charlotte, NC 28273](https://maps.app.goo.gl/pY9B8E3K2aurFx6L8){: target="_blank"}.  
   **What to Wear:**{: .label .label-green } Business casual attire, we want to look nice for the final day!  
   **What to Bring:**{: .label .label-purple } Microsoft badge, laptop, and a backpack. You'll need to return your laptop, but you get to keep the badge!  
-  **What to Know:**{: .label .label-yellow } This is the last day of the program. We'll be sending things off with a bang and having you all present your group project work to a group of employees. We'll provide plenty instruction before the final day to help get you prepared. It'll be a grand send off!
+  **What to Know:**{: .label .label-yellow } This is the last day of the program. We'll be sending things off with a bang and having you all present your group project work to a group of employees. We'll provide plenty of instruction before the final day to help get you prepared. It'll be a grand send off!
