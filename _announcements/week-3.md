@@ -18,11 +18,11 @@ Cheers to an awesome Week 2! We had insightful and inspiring field trips to Hone
 
 ## Wednesday 7/24
 
-We'll be taking a field try to Ally Bank, specifically the [Ally Charlotte Center at 601 S Tryon St, Charlotte, NC 28202](https://g.co/kgs/b6Q2xSB){: target="_blank"}. Ally is a leading digital financial services company known for its innovative approach to banking and finance. During our visit, you'll get a chance to explore their state-of-the-art facilities and learn about the technologies they use to provide seamless financial solutions.
+We'll be taking a field try to Ally Bank, specifically the [Ally Charlotte Center at 601 S Tryon St, Charlotte, NC 28202](https://maps.app.goo.gl/djs1UXeD5p5Lkcm48){: target="_blank"}. Ally is a leading digital financial services company known for its innovative approach to banking and finance. During our visit, you'll get a chance to explore their state-of-the-art facilities and learn about the technologies they use to provide seamless financial solutions.
 
 **Ally Trip Details**
 
-* **Where:** [Ally Charlotte Center at 601 S Tryon St, Charlotte, NC 28202](https://g.co/kgs/b6Q2xSB){: target="_blank"}.
+* **Where:** [Ally Charlotte Center at 601 S Tryon St, Charlotte, NC 28202](https://maps.app.goo.gl/djs1UXeD5p5Lkcm48){: target="_blank"}.
 * **When:** 10 AM – 3 PM
 * **What to Bring:** Nothing but your best selves! Feel free to bring a backpack if you’d like, but there are no specific items you need to bring to the field trip.
 * **What to Wear:** Casual attire (within reason).
