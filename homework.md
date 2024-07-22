@@ -18,7 +18,7 @@ Over the weekend, here's what you should be working on.
 
 1. Complete Visual Studio Code for Education's "Getting Started" course linked below. It'll teach you the basics of the platform and how you can use it to advance your coding skills! On the course page, after clicking "Start Course", sign in with your `@bamsummer.org` account. If you run into issues, you may also sign in with your personal Microsoft account, as either way will get you to the content.<br>
     [Course Link](https://vscodeedu.com/courses/getting-started){: .btn .btn-blue target="_blank"}
-2. Start on Visual Studio Code for Education's "Intro to Python" course linked below. If you have a background with coding, the beginning content might seem repetitive, but we promise it gets more challenging and informative as you continue! This is a self-paced course, so feel free to advance<br>
+2. Start on Visual Studio Code for Education's "Intro to Python" course linked below. If you have a background with coding, the beginning content might seem repetitive, but we promise it gets more challenging and informative as you continue! This is a self-paced course, so feel free to advance as you see fit.<br>
     [Course Link](https://vscodeedu.com/courses/intro-to-python){: .btn .btn-blue target="_blank"}
 
 ---
