@@ -32,7 +32,7 @@ We'll be taking a field try to Ally Bank, specifically the [Ally Charlotte Cente
   * **Parking Info:** This deck is right next to the Ally Charlotte Center. Take a parking ticket on the way in, and be sure to grab a Microsoft chaperone to ensure your parking is validated before leaving.
 * **Chaperones:** These are the Microsoft chaperones for the field trip. Please feel free to call or text them the day of the field trip with any questions or concerns.
   * **Jonathan Lindsay:** 704-968-4123
-  * **Dominique Greatheart:** TBD
+  * **Dominique Greatheart:** 475-434-7941
 
 ---
 
