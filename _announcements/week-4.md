@@ -6,7 +6,7 @@ date: 2024-07-26
 
 ![ATLA](../assets/images/atla.gif)
 
-Week 3 was filled with amazing workshops at the Microsoft Charlotte office, an informative field trip to Ally, and a jam packed virtual Thursday with plenty of warning. But now, the last <s>airbender</s> week of the program is upon us! Read on to see what's in store for Week 4.
+Week 3 was filled with amazing workshops at the Microsoft Charlotte office, an informative field trip to Ally, and a jam packed virtual Thursday with plenty of learning. But now, the last <s>airbender</s> week of the program is upon us! Read on to see what's in store for Week 4.
 
 ---
 
