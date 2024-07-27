@@ -16,6 +16,11 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 Here's the LinkedIn information for various persons you've gotten to interact with at the Microsoft Charlotte campus, or persons we feel are worth connecting with in general. Each one of these people are significant contributors to the Microsoft Charlotte campus community. Connecting with them will greatly improve your ability to remain plugged into Microsoft's presence in the region. Click on their names to be taken to their profiles!
 
+{: .tip }
+> If you wanted to send a Microsoft employee a quick note explaining why you'd like to connect with them, here's one you could use.
+>
+> _Hello! I hope this message finds you well. I was a mentee in the 2024 BAM (Blacks at Microsoft) Summer Mentorship Program at the Charlotte campus. I'd like to connect to stay engaged with Microsoft and to expand my professional network. Thank you for considering my request!_
+
 * [James Bolling](https://www.linkedin.com/in/jamesbolling/){:target="_blank"}
 * [Chemere Davis](https://www.linkedin.com/in/chemeredavis/){:target="_blank"}
 * [Jerome Collins](https://www.linkedin.com/in/jerome-collins-7789862b/){:target="_blank"}
@@ -45,6 +50,8 @@ Here's the LinkedIn information for various persons you've gotten to interact wi
 * [Erica Banks](https://www.linkedin.com/in/erica-banks-420b538a/){:target="_blank"}
 * [Jeremy Peach](https://www.linkedin.com/in/jeremypeach/){:target="_blank"}
 * [Mayha Shah](https://www.linkedin.com/in/mayhashah/){:target="_blank"}
+* [James Fuller](https://www.linkedin.com/in/jamespfuller/){:target="_blank"}
+* [Manoj Parvathaneni](https://www.linkedin.com/in/manoj-parvathaneni-7a286424/){:target="_blank"}
 * [Emmanuel Emerson](https://www.linkedin.com/in/emmanuel-emerson-ba27bb58/){:target="_blank"}
 * [Darnel Joseph](https://www.linkedin.com/in/darnel/){:target="_blank"}
 * [Meiko Lopez](https://www.linkedin.com/in/mldukes/){:target="_blank"}
@@ -57,6 +64,21 @@ Here's the LinkedIn information for various persons you've gotten to interact wi
 * [Duran Waters](https://www.linkedin.com/in/dfwpics){:target="_blank"}
 * [Chelsie Thompson](https://www.linkedin.com/in/chelsiethompson){:target="_blank"}
 * [Jim Moeller](https://www.linkedin.com/in/jim-moeller-7b7bb8){:target="_blank"}
+* [Eric Sabine](https://www.linkedin.com/in/eric-sabine/){:target="_blank"}
+* [Morgan Epperly](https://www.linkedin.com/in/morgan-epperly/){:target="_blank"}
+* [Dana Abulebdeh](https://www.linkedin.com/in/danaabulebdeh/){:target="_blank"}
+* [Ruth Magyar](https://www.linkedin.com/in/rumagyar/){:target="_blank"}
+* [Hana Franco](https://www.linkedin.com/in/hana-franco-nc/){:target="_blank"}
+* [Bryan Wofford](https://www.linkedin.com/in/bryanwofford/){:target="_blank"}
+* [Jimmy Avila](https://www.linkedin.com/in/jimmyavila/){:target="_blank"}
+* [Prathima Reddi](https://www.linkedin.com/in/prathima-reddi/){:target="_blank"}
+* [Stacey Whitfield](https://www.linkedin.com/in/staceywhitfield/){:target="_blank"}
+* [Joshua Ugwuneri](https://www.linkedin.com/in/joshug/){:target="_blank"}
+* [Deepali Khandekar](https://www.linkedin.com/in/deepalikhandekar/){:target="_blank"}
+* [MiQuita McCray](https://www.linkedin.com/in/miquitaburks/){:target="_blank"}
+* [Gabby Staskiewicz](https://www.linkedin.com/in/gabbystaskiewicz/){:target="_blank"}
+* [Richard Taylor](https://www.linkedin.com/in/rightincode/){:target="_blank"}
+* [Robert VanSchooneveld](https://www.linkedin.com/in/rvanschooneveld/){:target="_blank"}
 
 ---
 

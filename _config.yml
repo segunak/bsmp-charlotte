@@ -37,6 +37,11 @@ permalink: pretty
 aux_links:
 footer_content:
 
+callouts:
+  tip:
+    title: Pro Tip!
+    color: purple
+
 # Collections for website data
 collections:
   staffers:
