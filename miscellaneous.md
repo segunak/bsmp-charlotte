@@ -10,6 +10,8 @@ description: A page for miscellaneous program information.
 
 This page is for miscellaneous program information. Scroll through to see what you might find!
 
+---
+
 ## LinkedIn Info - Miscellaneous
 
 Here's the LinkedIn information for various persons you've gotten to interact with at the Microsoft Charlotte campus, or persons we feel are worth connecting with in general. Each one of these people are significant contributors to the Microsoft Charlotte campus community. Connecting with them will greatly improve your ability to remain plugged into Microsoft's presence in the region. Click on their names to be taken to their profiles!
@@ -55,6 +57,8 @@ Here's the LinkedIn information for various persons you've gotten to interact wi
 * [Duran Waters](https://www.linkedin.com/in/dfwpics){:target="_blank"}
 * [Chelsie Thompson](https://www.linkedin.com/in/chelsiethompson){:target="_blank"}
 * [Jim Moeller](https://www.linkedin.com/in/jim-moeller-7b7bb8){:target="_blank"}
+
+---
 
 ## LinkedIn Info - Microsoft Charlotte College Interns
 
