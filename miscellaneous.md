@@ -12,7 +12,7 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 ---
 
-## LinkedIn Info - Miscellaneous
+## LinkedIn Info - Microsoft Charlotte
 
 Here's the LinkedIn information for various persons you've gotten to interact with at the Microsoft Charlotte campus, or persons we feel are worth connecting with in general. Each one of these people are significant contributors to the Microsoft Charlotte campus community. Connecting with them will greatly improve your ability to remain plugged into Microsoft's presence in the region. Click on their names to be taken to their profiles!
 
@@ -82,7 +82,7 @@ Here's the LinkedIn information for various persons you've gotten to interact wi
 
 ---
 
-## LinkedIn Info - Microsoft Charlotte College Interns
+## LinkedIn Info - Microsoft Charlotte Interns
 
 Here's the LinkedIn information for the college interns you met at the Charlotte campus on various program days. Since they're students themselves, they're certainly worth connecting with!
 
