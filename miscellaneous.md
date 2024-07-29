@@ -12,9 +12,21 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 ---
 
+## LinkedIn Groups to Join
+
+A LinkedIn group is an online community within the LinkedIn platform where members with shared interests, professions, or goals can connect, share insights, and engage in discussions. The following are some groups we thing are worth joining!
+
+* [Microsoft University Recruiting Team](https://www.linkedin.com/groups/12125564/)
+* [Microsoft BAM Summer Mentorship - Alumni Network](https://www.linkedin.com/groups/8970579/)
+* [Artificial Intelligence, Machine Learning, Data Science & Robotics](https://www.linkedin.com/groups/3990648/)
+* [Internships and Interns](https://www.linkedin.com/groups/1269987/)
+* [Entry Level Jobs and Internships: College Recruiter](https://www.linkedin.com/groups/2067005/)
+
+---
+
 ## LinkedIn Info - Microsoft Charlotte
 
-Here's the LinkedIn information for various persons you've gotten to interact with at the Microsoft Charlotte campus, or persons we feel are worth connecting with in general. Each one of these people are significant contributors to the Microsoft Charlotte campus community. Connecting with them will greatly improve your ability to remain plugged into Microsoft's presence in the region. Click on their names to be taken to their profiles!
+Here's the LinkedIn information for various persons you've gotten to interact with at the Microsoft Charlotte campus, or persons we feel are worth connecting with in general. Each one of these people are significant contributors to the Microsoft Charlotte campus community. Connecting with them will greatly improve your ability to remain plugged into Microsoft's presence in the region (such as future internship and program opportunities). Click on their names to be taken to their profiles!
 
 {: .tip }
 > If you wanted to send a Microsoft employee a quick note explaining why you'd like to connect with them, here's one you could use.
