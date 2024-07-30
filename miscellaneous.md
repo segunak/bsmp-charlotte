@@ -16,11 +16,11 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 A LinkedIn group is an online community within the LinkedIn platform where members with shared interests, professions, or goals can connect, share insights, and engage in discussions. The following are some groups we thing are worth joining!
 
-* [Microsoft University Recruiting Team](https://www.linkedin.com/groups/12125564/)
-* [Microsoft BAM Summer Mentorship - Alumni Network](https://www.linkedin.com/groups/8970579/)
-* [Artificial Intelligence, Machine Learning, Data Science & Robotics](https://www.linkedin.com/groups/3990648/)
-* [Internships and Interns](https://www.linkedin.com/groups/1269987/)
-* [Entry Level Jobs and Internships: College Recruiter](https://www.linkedin.com/groups/2067005/)
+* [Microsoft University Recruiting Team](https://www.linkedin.com/groups/12125564/){:target="_blank"}
+* [Microsoft BAM Summer Mentorship - Alumni Network](https://www.linkedin.com/groups/8970579/){:target="_blank"}
+* [Artificial Intelligence, Machine Learning, Data Science & Robotics](https://www.linkedin.com/groups/3990648/){:target="_blank"}
+* [Internships and Interns](https://www.linkedin.com/groups/1269987/){:target="_blank"}
+* [Entry Level Jobs and Internships: College Recruiter](https://www.linkedin.com/groups/2067005/){:target="_blank"}
 
 ---
 
