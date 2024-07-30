@@ -18,7 +18,19 @@ Week 3 was filled with amazing workshops at the Microsoft Charlotte office, an i
 
 ## Wednesday 7/31
 
-We'll be taking a _to be determined_ field trip. We're working out a few details with our field trip partner, and will be sure to update this website when all is sorted.
+We'll be taking a field trip to the University of North Carolina at Charlotte. UNC Charlotte is one of the leading education institutions in the Charlotte area boasting a beautiful campus alongside excellent academic offerings, particularly in Data Science. Our visit will center on giving you an inside look at the college experience!
+
+* **Where:** UNC Charlotte, specifically meet at the [Gage Undergraduate Admissions Center - 8910 Johnson Alumni Way, Charlotte, NC 28262](https://maps.app.goo.gl/PARckN96rMCKNMW16){: target="_blank"}.
+* **When:** 10 AM – 3 PM
+* **What to Bring:** Nothing but your best selves! Feel free to bring a backpack if you’d like, but there are no specific items you need to bring to the field trip.
+* **What to Wear:** Casual attire. **We will be walking outside** during our tour of campus so please dress accordingly. Check the weather forecast!
+* **Lunch:** Covered by Microsoft at UNC Charlotte's dining hall.
+* **Transportation:** If you are using our Uber program, you will Uber directly to the field trip location and back home once the event concludes. If you are not using Uber, please have your parents drop you off at 10 AM and pick you up at 3 PM. If you're driving, see below for additional information.
+  * **Parking Garage Address:** Park in the Admissions Lot at [8904 Johnson Alumni Way, Charlotte, NC 28223](https://maps.app.goo.gl/XRHCSWoZdeiyyfcy6){: target="_blank"}.
+  * **Parking Info:** This deck is right by the Gage Undergraduate Admissions Center, which is where we'll meet to start the day. Take a parking ticket on the way in, and be sure to have it validated by the front desk staff at the Admissions Center before leaving. Don't pay for parking! If you're not sure on how to get validation, grab a Microsoft chaperone for help.
+* **Chaperones:** These are the Microsoft chaperones for the field trip. Please feel free to call or text them the day of the field trip with any questions or concerns.
+  * **Chemere Davis:** 336-253-5268
+  * **Segun Akinyemi:** 618-616-1285
 
 ---
 

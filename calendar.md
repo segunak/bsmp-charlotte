@@ -22,9 +22,9 @@ Tuesday 7/30
   **What to Know:**{: .label .label-yellow } Nothing specific, come ready to learn!
 
 Wednesday 7/31
-: **Activity:**{: .label .label-blue } Field trip to be determined.  
-  **Location:**{: .label .label-red } TBD.  
-  **What to Wear:**{: .label .label-green } Casual attire.  
+: **Activity:**{: .label .label-blue } Field trip to UNC Charlotte.  
+  **Location:**{: .label .label-red } [Gage Undergraduate Admissions Center - 8910 Johnson Alumni Way, Charlotte, NC 28262](https://maps.app.goo.gl/PARckN96rMCKNMW16){: target="_blank"}  
+  **What to Wear:**{: .label .label-green } Casual attire. **We will be walking outside** during our tour of campus so please dress accordingly. Check the weather forecast!  
   **What to Bring:**{: .label .label-purple } Nothing specific, but you're free to bring a backpack if you'd like.  
   **What to Know:**{: .label .label-yellow } See the [Week 4 announcement](announcements.md) for more details.
 
