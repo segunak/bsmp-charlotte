@@ -115,6 +115,11 @@ Here's the LinkedIn information for the amazing people we met at the Ally field 
 * [Jordan Jackson](https://www.linkedin.com/in/jordan-jackson-2a4310174/){:target="_blank"}
 * [Lailah Hunnicutt](https://www.linkedin.com/in/lailah-hunnicutt/){:target="_blank"}
 * [Laia Garland](https://www.linkedin.com/in/laia-garland-97740a191/){:target="_blank"}
+* [Ta'Niss Robinson](https://www.linkedin.com/in/tanissrobinson/){:target="_blank"}
+* [Jordan Jackson](https://www.linkedin.com/in/jordan-jackson-2a4310174/){:target="_blank"}
+* [Aja Valentine](https://www.linkedin.com/in/ajajvalentine/){:target="_blank"}
+* [Brittany Smith](https://www.linkedin.com/in/britt-i-smith/){:target="_blank"}
+* [Adrienne Dew](https://www.linkedin.com/in/adriennedew/){:target="_blank"}
 
 ---
 
