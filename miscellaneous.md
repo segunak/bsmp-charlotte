@@ -14,7 +14,7 @@ This page is for miscellaneous program information. Scroll through to see what y
 
 ## LinkedIn Groups to Join
 
-A LinkedIn group is an online community within the LinkedIn platform where members with shared interests, professions, or goals can connect, share insights, and engage in discussions. The following are some groups we thing are worth joining!
+A LinkedIn group is an online community within the LinkedIn platform where members with shared interests, professions, or goals can connect, share insights, and engage in discussions. The following are some groups we think are worth joining!
 
 * [Microsoft University Recruiting Team](https://www.linkedin.com/groups/12125564/){:target="_blank"}
 * [Microsoft BAM Summer Mentorship - Alumni Network](https://www.linkedin.com/groups/8970579/){:target="_blank"}
