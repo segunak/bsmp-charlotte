@@ -34,7 +34,7 @@ Thursday 8/1
   **Location:**{: .label .label-red } Microsoft Charlotte Office - [8050 Microsoft Way, Charlotte, NC 28273](https://maps.app.goo.gl/pY9B8E3K2aurFx6L8){: target="_blank"}.  
   **What to Wear:**{: .label .label-green } Casual attire.  
   **What to Bring:**{: .label .label-purple } Microsoft badge, laptop, and a backpack. Bringing your laptop is especially important, as you'll need to return it, but the badge is yours to keep forever!  
-  **What to Know:**{: .label .label-yellow } This will be the last day of the program. We'll be taking professional headshots, having a final group coding exercise, reviewing how you can stay connected with Microsoft, and ending the day with a fun engaging activity to cap off the summer. It'll be a blast!
+  **What to Know:**{: .label .label-yellow } This will be the last day of the program. We'll have a final group coding exercise, reviewing how you can stay connected with Microsoft, and ending the day with a fun engaging activity to cap off the summer. It'll be a blast!
 
 ---
 
