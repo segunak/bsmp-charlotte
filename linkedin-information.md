@@ -41,6 +41,7 @@ Here's the LinkedIn information for various persons you've gotten to interact wi
 
 * [James Bolling](https://www.linkedin.com/in/jamesbolling/){:target="_blank"}
 * [Chemere Davis](https://www.linkedin.com/in/chemeredavis/){:target="_blank"}
+* [Chenae Erkerd](https://www.linkedin.com/in/chenae-erkerd-j-d-racr-798b2389/){:target="_blank"}
 * [Jerome Collins](https://www.linkedin.com/in/jerome-collins-7789862b/){:target="_blank"}
 * [Jonathan Lindsay](https://www.linkedin.com/in/jonathanllindsay/){:target="_blank"}
 * [Samuel Blackmon](https://www.linkedin.com/in/sblackmon/){:target="_blank"}
