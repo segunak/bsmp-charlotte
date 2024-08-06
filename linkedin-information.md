@@ -8,10 +8,7 @@ description: A page for LinkedIn information.
 
 # LinkedIn Information
 
-{: .note }
-> **The 2024 BAM Summer Mentorship Program has ended. This page remains accessible for reference purposes only.**
-
-This page is for LinkedIn info related to the program. Scroll through to see who you can connect with!
+**Please note, the 2024 BAM Summer Mentorship Program has ended. This page remains accessible for historical reference purposes only.**
 
 ---
 

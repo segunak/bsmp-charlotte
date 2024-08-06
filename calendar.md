@@ -8,8 +8,7 @@ description: Listing of program content.
 
 # Calendar
 
-{: .note }
-> **The 2024 BAM Summer Mentorship Program has ended. This page remains accessible for historical reference purposes only.**
+**Please note, the 2024 BAM Summer Mentorship Program has ended. This page remains accessible for historical reference purposes only.**
 
 ---
 
