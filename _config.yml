@@ -38,6 +38,9 @@ aux_links:
 footer_content:
 
 callouts:
+  note:
+    title: Note
+    color: blue
   tip:
     title: Pro Tip!
     color: purple

@@ -8,28 +8,18 @@ permalink: /:path/
 
 # Home
 
-![HelloThere](./assets/images/clippy.gif)
+![AllDone](./assets/images/thatsall.gif)
 
-Hello and welcome to the program site for the **2024 Blacks at Microsoft (BAM) Summer Mentorship Program in Charlotte, North Carolina**. This site serves as your one stop shop for key information and updates about the program. Be sure to bookmark this link! To start, here's some key details about the program.
+That's a wrap! Thank you students for your participation, engagement, and enthusiasm as members of the 2024 Blacks at Microsoft (BAM) Summer Mentorship Program in Charlotte, North Carolina. This website now serves as an archive for information of continuing relevance related to the things we learned during the program.
 
-## Program Format
+## Relevant Pages
 
-The BAM Summer Mentorship Program in Charlotte, North Carolina runs from **July 9th, 2024 to August 1st, 2024**. Each program day, regardless of location, runs from **10 AM - 3 PM** in the following format.
+Now that the program has completed, here are the pages on the site we think are most worth checking out.
 
-* **Tuesday's:** In-person at the Microsoft Charlotte Office - [8050 Microsoft Way Charlotte, NC 28273](https://maps.app.goo.gl/XTrV7nVqcTXL3GN98)
-* **Wednesday's:** Field trips to various local businesses and Charlotte institutions. Check the [Calendar](calendar.md) page to learn which field trips are happening when.
-* **Thursday's:** Virtual engagement, with the exception of `7/18/24` (make up field trip) and `8/1/24` (last day of the program at the office and final presentations). Check out the [Calendar](calendar.md) page for more details.
-
-## Important Pages
-
-Here are some important pages on to check out.
-
-* [Program Announcements](announcements.md)
-* [Program Calendar](calendar.md)
-* [Program Homework](homework.md)
-* [Program Miscellaneous Info](miscellaneous.md)
-* [Program Staff](staff.md)
+* [LinkedIn Information](linkedin-information.md): Contains LinkedIn information, such as groups to join and people to connect with, for your continued reference.
+* [Learning Resources](learning-resources.md): Contains learning resources we know will help you continue growing in your tech journey!
+* [Program Staff](staff.md): Contains a listing of the staff members who ran the 2024 program. Make sure to connect with them all on LinkedIn!
 
 ## Contact Information
 
-You can contact the program team at `bsmpncmoms@microsoft.com` with any questions or concerns.
+If you'd like to stay in contact with Microsoft, and staff from the program, leverage LinkedIn messaging! Be sure to check out the [staff](staff.md) page and click on the names for the LinkedIn info of our staff members, and the [LinkedIn Information](linkedin-information.md) page for various other LinkedIn contacts.

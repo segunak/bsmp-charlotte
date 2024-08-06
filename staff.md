@@ -1,12 +1,15 @@
 ---
 layout: page
 nav_exclude: false
-nav_order: 6
+nav_order: 4
 title: Staff
 description: A listing of all the program staff members.
 ---
 
 # Staff
+
+{: .note }
+> **The 2024 BAM Summer Mentorship Program has ended. This page remains accessible for historical reference purposes only.**
 
 Here are the staff members for the 2024 Blacks at Microsoft (BAM) Summer Mentorship Program in Charlotte, North Carolina. Feel free to **click on any staffers name to connect with them on LinkedIn!**
 

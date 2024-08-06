@@ -1,14 +1,23 @@
 ---
 layout: page
 nav_exclude: false
-nav_order: 5
-title: Miscellaneous
-description: A page for miscellaneous program information.
+nav_order: 2
+title: LinkedIn Information
+description: A page for LinkedIn information.
 ---
 
-# Miscellaneous
+# LinkedIn Information
 
-This page is for miscellaneous program information. Scroll through to see what you might find!
+{: .note }
+> **The 2024 BAM Summer Mentorship Program has ended. This page remains accessible for reference purposes only.**
+
+This page is for LinkedIn info related to the program. Scroll through to see who you can connect with!
+
+---
+
+## Example Profile
+
+Our example LinkedIn profile, which shows how you can list this program on your profile (and even resume), can be found at [Gojo Groovy](https://www.linkedin.com/in/gojo-groovy-0aa08a320/).
 
 ---
 
