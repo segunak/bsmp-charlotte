@@ -8,7 +8,7 @@ description: A hub for program learning resources.
 
 # Learning Resources
 
-This page contains the homework for the program. If you get any emails telling you about other homework assignments, you can ignore them. For Charlotte students, this page serves as the one-stop-shop for any homework you'll need to complete. If it's not listed here, you don't have to do it!
+This page contains learning resources for your continued reference, to infinity, and beyond!
 
 ## Tech
 
